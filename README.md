@@ -9,4 +9,5 @@ Jutalmak a jó jelentésekért:
                   - AcidMoney
                   
 Több információ az OCD-ről: http://theold.minemarket.hu/
+
 Több információ az AcidMoneyről: SavSziget --> /warp Kereskedők
